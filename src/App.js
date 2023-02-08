@@ -2,6 +2,7 @@ import './App.css';
 import AboutMe from './components/AboutMe';
 import Hero from './components/Hero';
 import MySkills from './components/MySkills';
+import Skills from './components/Skills';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
     <Hero />
     <AboutMe />
     <MySkills />
+    <Skills />
     </>
   );
 }
